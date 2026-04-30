@@ -1,7 +1,5 @@
-<h1 align="center">Hayden Dev</h1>
-
 <p align="center">
-  Discord Bot Developer • Full-Stack Builder • Local AI Tools
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:312e81,100:7c3aed&height=220&section=header&text=Hayden%20Dev&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20%E2%80%A2%20Bots%20%E2%80%A2%20Clean%20UI&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
